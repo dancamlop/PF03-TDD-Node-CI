@@ -1,0 +1,17 @@
+{
+  "name": "pf03-tdd-node-ci",
+  "version": "1.0.0",
+  "description": "Actividad PF03 - TDD con Node.js y CI", 
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test.watch": "vistest"
+  },
+  "keywords": [],
+  "author": "Daniel Campos López",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "vitest": "^5.1.0"
+  }
+}
